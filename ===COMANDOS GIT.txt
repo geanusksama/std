@@ -1,0 +1,6 @@
+===COMANDOS GIT 
+GIT INIT
+GIT CLONE ENDEREÇO
+GIT FETCH
+GIT status
+git add
